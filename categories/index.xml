@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Linux is My Adventure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 10:15:10 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 10:22:15 +0700</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>category1</title>
       <link>/categories/category1/</link>
-      <pubDate>Sun, 08 Sep 2019 10:15:10 +0700</pubDate>
+      <pubDate>Sun, 08 Sep 2019 10:22:15 +0700</pubDate>
       
       <guid>/categories/category1/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>category2</title>
       <link>/categories/category2/</link>
-      <pubDate>Sun, 08 Sep 2019 10:15:10 +0700</pubDate>
+      <pubDate>Sun, 08 Sep 2019 10:22:15 +0700</pubDate>
       
       <guid>/categories/category2/</guid>
       <description></description>

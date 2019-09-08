@@ -4,46 +4,56 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/category1/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/category2/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/install-dns-server/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <loc>/install-nextcloud-server/</loc>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/tag1/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/tag2/</loc>
-    <lastmod>2019-09-08T10:15:10+07:00</lastmod>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-09-08T10:22:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/install-web-server/</loc>
+    <lastmod>2019-09-08T10:19:23+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/install-dns-server/</loc>
     <lastmod>2019-09-08T10:15:10+07:00</lastmod>
   </url>
   
