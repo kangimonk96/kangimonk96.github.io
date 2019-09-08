@@ -35,7 +35,19 @@
       <pubDate>Sun, 08 Sep 2019 10:15:10 +0700</pubDate>
       
       <guid>https://kangimonk96.github.io/install-dns-server/</guid>
-      <description>&lt;p&gt;DNS Server merupakan Domain Name Server.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Domain Name Server atau yang biasa kita kenal dengan DNS merupakan sebuah sistem yang digunakan untuk menyimpan informasi tentang host dan domain yang terhubung di jaringan. Digunakan untuk mapping dari alamat IP Address agar mudah dikenali. Server yang digunakan untuk menerjemahkan IP Address juga disebut sebagai DNS Server.
+(&lt;a href=&#34;http://kb.cloudkilat.com/jaringan/cara-membuat-dns-server-menggunakan-bind9-di-centos&#34;&gt;http://kb.cloudkilat.com/jaringan/cara-membuat-dns-server-menggunakan-bind9-di-centos&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;PERSIAPAN AWAL&lt;/p&gt;
+
+&lt;p&gt;Seperti biasa, perbarui dulu sistem operasi CentOS ke versi terkini, dengan memasukkan perintah:
+- yum update&lt;/p&gt;
+
+&lt;p&gt;INSTALLASI&lt;/p&gt;
+
+&lt;p&gt;Seperti di Ubuntu, Anda dapat menginstall aplikasi BIND dari repository bawaan CentOS secara langsung. Masukkan perintah:&lt;/p&gt;
+
+&lt;p&gt;yum install bind bind-chroot bind-libs bind-utils caching-nameserver&lt;/p&gt;</description>
     </item>
     
     <item>
