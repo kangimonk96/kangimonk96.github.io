@@ -2,59 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category2 on Linux is My Adventure</title>
-    <link>/categories/category2/</link>
+    <link>https://kangimonk96.github.io/categories/category2/</link>
     <description>Recent content in category2 on Linux is My Adventure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2019 10:22:15 +0700</lastBuildDate>
     
-	<atom:link href="/categories/category2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kangimonk96.github.io/categories/category2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Install Nextcloud Server</title>
-      <link>/install-nextcloud-server/</link>
+      <link>https://kangimonk96.github.io/install-nextcloud-server/</link>
       <pubDate>Sun, 08 Sep 2019 10:22:15 +0700</pubDate>
       
-      <guid>/install-nextcloud-server/</guid>
+      <guid>https://kangimonk96.github.io/install-nextcloud-server/</guid>
       <description>&lt;p&gt;Ini adalah nextcloud server&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Install Web Server</title>
-      <link>/install-web-server/</link>
+      <link>https://kangimonk96.github.io/install-web-server/</link>
       <pubDate>Sun, 08 Sep 2019 10:19:23 +0700</pubDate>
       
-      <guid>/install-web-server/</guid>
+      <guid>https://kangimonk96.github.io/install-web-server/</guid>
       <description>&lt;p&gt;Ini adalah web server&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Install Dns Server</title>
-      <link>/install-dns-server/</link>
+      <link>https://kangimonk96.github.io/install-dns-server/</link>
       <pubDate>Sun, 08 Sep 2019 10:15:10 +0700</pubDate>
       
-      <guid>/install-dns-server/</guid>
+      <guid>https://kangimonk96.github.io/install-dns-server/</guid>
       <description>&lt;p&gt;DNS Server merupakan Domain Name Server.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Order Layanan Ck</title>
-      <link>/order-layanan-ck/</link>
+      <link>https://kangimonk96.github.io/order-layanan-ck/</link>
       <pubDate>Sun, 08 Sep 2019 09:57:31 +0700</pubDate>
       
-      <guid>/order-layanan-ck/</guid>
+      <guid>https://kangimonk96.github.io/order-layanan-ck/</guid>
       <description>&lt;p&gt;Kunjungi terlebih dahulu website dari cloudkilat pada link berikut :
 &lt;a href=&#34;https://cloudkilat.com/order&#34;&gt;https://cloudkilat.com/order&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Install Mail Server</title>
-      <link>/install-mail-server/</link>
-      <pubDate>Sun, 08 Sep 2019 09:24:43 +0700</pubDate>
-      
-      <guid>/install-mail-server/</guid>
-      <description>&lt;p&gt;Kita sudah berhasil menambahkan temanya, selanjutnya kita akan coba menambahkan konten.&lt;/p&gt;</description>
     </item>
     
   </channel>

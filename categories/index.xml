@@ -2,30 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Linux is My Adventure</title>
-    <link>/categories/</link>
+    <link>https://kangimonk96.github.io/categories/</link>
     <description>Recent content in Categories on Linux is My Adventure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2019 10:22:15 +0700</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kangimonk96.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>category1</title>
-      <link>/categories/category1/</link>
+      <link>https://kangimonk96.github.io/categories/category1/</link>
       <pubDate>Sun, 08 Sep 2019 10:22:15 +0700</pubDate>
       
-      <guid>/categories/category1/</guid>
+      <guid>https://kangimonk96.github.io/categories/category1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>category2</title>
-      <link>/categories/category2/</link>
+      <link>https://kangimonk96.github.io/categories/category2/</link>
       <pubDate>Sun, 08 Sep 2019 10:22:15 +0700</pubDate>
       
-      <guid>/categories/category2/</guid>
+      <guid>https://kangimonk96.github.io/categories/category2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mail</title>
+      <link>https://kangimonk96.github.io/categories/mail/</link>
+      <pubDate>Sun, 08 Sep 2019 09:24:43 +0700</pubDate>
+      
+      <guid>https://kangimonk96.github.io/categories/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://kangimonk96.github.io/categories/server/</link>
+      <pubDate>Sun, 08 Sep 2019 09:24:43 +0700</pubDate>
+      
+      <guid>https://kangimonk96.github.io/categories/server/</guid>
       <description></description>
     </item>
     
