@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/category1/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/category2/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/install-mail-server/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tag1/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tag2/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-08T09:24:43+07:00</lastmod>
+  </url>
+  
+</urlset>
