@@ -6,10 +6,20 @@
     <description>Recent content on Linux is My Adventure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 09:24:43 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 09:57:31 +0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Order Layanan Ck</title>
+      <link>/order-layanan-ck/</link>
+      <pubDate>Sun, 08 Sep 2019 09:57:31 +0700</pubDate>
+      
+      <guid>/order-layanan-ck/</guid>
+      <description>&lt;p&gt;Kunjungi terlebih dahulu website dari cloudkilat pada link berikut :
+&lt;a href=&#34;https://cloudkilat.com/order&#34;&gt;https://cloudkilat.com/order&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Install Mail Server</title>
