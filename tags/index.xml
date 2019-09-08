@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Linux is My Adventure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 09:57:31 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 10:15:10 +0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>tag1</title>
       <link>/tags/tag1/</link>
-      <pubDate>Sun, 08 Sep 2019 09:57:31 +0700</pubDate>
+      <pubDate>Sun, 08 Sep 2019 10:15:10 +0700</pubDate>
       
       <guid>/tags/tag1/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>tag2</title>
       <link>/tags/tag2/</link>
-      <pubDate>Sun, 08 Sep 2019 09:57:31 +0700</pubDate>
+      <pubDate>Sun, 08 Sep 2019 10:15:10 +0700</pubDate>
       
       <guid>/tags/tag2/</guid>
       <description></description>
