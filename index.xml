@@ -47,7 +47,9 @@
 
 &lt;p&gt;Seperti di Ubuntu, Anda dapat menginstall aplikasi BIND dari repository bawaan CentOS secara langsung. Masukkan perintah:&lt;/p&gt;
 
-&lt;p&gt;yum install bind bind-chroot bind-libs bind-utils caching-nameserver&lt;/p&gt;</description>
+&lt;p&gt;yum install bind bind-chroot bind-libs bind-utils caching-nameserver&lt;/p&gt;
+
+&lt;p&gt;{{ youtube mfLGxkHtvIM }}&lt;/p&gt;</description>
     </item>
     
     <item>
