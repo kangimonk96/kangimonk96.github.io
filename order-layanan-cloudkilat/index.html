@@ -35,7 +35,7 @@
 
   <meta name="description" content="" />
   <meta name="keywords" content="">
-  <meta name="author" content="Ardianta Pargo">
+  <meta name="author" content="Imron Rosyadi ">
 
   
   <meta name="generator" content="Hugo 0.58.1" />
@@ -101,7 +101,7 @@
 
 <header>
   <p class="meta">Sep 8, 2019
-     - 1 minute read 
+     - 4 minute read 
      - <a href="https://kangimonk96.github.io/order-layanan-cloudkilat/#disqus_thread">Comments</a>
 
     
@@ -110,7 +110,7 @@
     
   </p>
   <h1 class="entry-title">
-     Order Layanan CloudKilat 
+    <a href="https://kangimonk96.github.io/order-layanan-cloudkilat/">Order Layanan CloudKilat</a>
   </h1>
 </header>
 
@@ -119,14 +119,96 @@
           
           
           
-          <p>Kunjungi terlebih dahulu website dari cloudkilat pada link berikut :
-<a href="http://www.cloudkilat.com/layanan">http://www.cloudkilat.com/layanan</a></p>
+          <p>Halo blogger!</p>
+
+<p>Kebutuhan di era industri 4.0 ini sudah mulai beranjak ke pasar global. Masyarakat sudah banyak yang menggunakan bisnis berbasis digital mulai dari bidang Internet of Things (IOT), Infrastruktur Server,
+Cloud Computing, dsb.</p>
+
+<p>Nah, kebutuhan dari bisnis-bisnis tersebut juga harus memiliki resource yang cukup. Apa saja resource yang dibutuhkan ?
+Resource yang dibutuhkan mulai dari domain, hosting, virtual machine (VM)  dsb.</p>
+
+<p>Ukuran dari resource yang dipilih juga harus memiliki dan pengelolahan yang baik. Oleh karena itu jika sobat ingin membelinya harus benar-benar memilih provider yang bagus.
+Salah satu domain yang menyediakan layanan VM, domain, hosting, dan layanan tambahan lainnya adalah PT. Infinys System Indonesia. PT. Infinys System Indonesia menjual layanan berbasis windows server dan linux server. Selengkapnya bisa sobat temukan pada link <a href="http://www.cloudkilat.com/layanan" title="Layanan CloudKilat">berikut</a>.</p>
+
+<p>Untuk menggunakan layanan dari CloudKilat, sobat harus order layanan tersebut. Pada kali ini saya akan mencoba order salah satu layanan VM dan Domain dari CloudKilat.
+Langkah-langkahnya bisa diikuti seperti dibawah ini :</p>
+
+<p><strong>A. Order layanan VM CloudKilat</strong>
+<p>
+1. Kunjungi website portal client area CloudKilat seperti dibawah ini :
+Login dengan akun yang sobat miliki, setelah login berhasil sobat akan disuguhkan dengan tampilan seperti berikut ini :
+</p>
+<p>
+2. Selanjutnya pilih menu order pada samping kiri anda, dan pilih layanan yang ingin anda
+gunakan, disini saya menggunakan layanan <strong>Kilat VM XXS</strong>. Nah pada portal CloudKilat
+deskripsi layanan sudah dicantumkan dengan baik. Lakukan order dengan klik ‘Order Now’
+pada sisi sebelah kanan seperti pada gambar berikut :</p>
+
+<p>Kemudian isikan hostname yang ingin digunakan pada VM dan sistem operasi yang
+digunakan pada VM sobat yang terdiri dari CentOS, Debian, dan Ubuntu. Setelah itu, klik
+Continue untuk melanjutkan pada proses pembayaran. Setelah itu VM anda akan bisa
+digunakan.</p>
+
+<p>Untuk melakukan verifikasi s bisa mengunjungi pada menu ‘Services’ dan layanan VM
+yang sudah dipesan akan ditampilkan pada menu tersebut seperti pada gambar dibawah ini :
+</p>
+<strong>B. Order layanan Domain CloudKilat</strong>
+<p>
+1. Jika sobat sudah melakukan pemesanan pada VM, selanjutnya sobat membutuhkan domain
+untuk alamat website. Maka sobat perlu melakukan pemesanan / order domain pada
+portal CloudKilat. Adapun pemesanan tersebut dapat dilakukan dengan memilih menu order
+dan pilih tab ‘Register Domain’. Cek ketersediaan domain sobat terlebih dahulu seperti pada
+gambar berikut :</p>
+
+<p>Apabila domain sobat tersedia, maka ikuti tahapan registrasi domain.
+Untuk melakukan verifikasi layanan domain dapat dilakukan dengan mengunjungi menu
+‘Services’ dan pilih tab ‘Domains’, pada tab tersebut akan muncul daftar domain yang sudah
+dilakukan pemesanan seperti pada gambar berikut ini :
+</p>
+<p>
+2. Aktivasi domain pada layanan portal CloudKilat
+Domain yang sudah dipesan bisa digunakan apabila sudah melalui beberapa persyaratan
+salah satunya melakukan konfigurasi Domain Name Server (DNS) dan disesuaikan dengan
+Name Server (NS) CloudKilat. Adapun NS yang digunakan CloudKilat terdiri dari dua NS
+yaitu DomainCloud untuk melayanai domain Indonesia dan KilatDomain untuk melayani
+domain internasional.
+Untuk konfigurasi NS bisa dilakukan dengan dua cara yaitu konfigurasi NS secara default
+dan konfigurasi NS secara mandiri. Pada kali ini saya akan membagikan bagaimana cara
+melakukan konfigurasi NS secara mandiri/private name server.</p>
+
+<p>Langkah pertama kali yaitu dengan meng-klik ‘MANAGE’ pada domain yang sobat
+gunakan, selanjutnya pilih tab ‘Private Nameservers’ dan daftarkan nama NS yang
+digunakan seperti contoh pada gambar dibawah ini :</p>
+
+<p>Simpan perubahan dengan meng-klik ‘SAVE CHANGES’ pada registrasi NS sobat. Selanjutnya
+pilih tab ‘Nameservers’ dan pilih ‘Use Custom nameservers’ pada piliha Nameservers serta isikan
+nama NS yang sobat didaftarkan sebelumya seperti pada gambar berikut ini :</p>
+
+<p>Selanjutnya sobat tinggal menunggu masa propagasi1 domain yang sudah sobat daftarkan selesai,
+untuk mengecek apabila domain sudah resolve dapat dilakukan dengan berbagai cara baik melewati
+terminal OS sobat maupun tools seperti DNS Checker, atau Glue Records. Jika melewati terminal
+OS dapat dilakukan dengan perintah dig <namadomain> +shot / dig <nsdomain> +short, apabila
+target IP sudah sesuai maka domain sobat sudah resolve dan bisa digunakan.
+</p>
+<p>
+3. Test aktivasi domain
+Apabila domain sudah resolve atau sesuai dengan IP hosting yang digunakan, coba cek
+apakah domain tersebut berhasil digunakan, seperti contoh berikut saya menggunakan
+subdomain magento.imonk.my.id yang sudah saya isi dengan Content Magement System
+(CMS) magento.
+</p></p>
+
+<p>Inline-style:
+<img src="https://github.com/kangimonk96/blog/tree/master/images/coba.png" alt="alt text" title="Habib Umar" /></p>
+
+<p>Reference-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
         </div>
         
 
 <footer>
   <p class="meta">
-    <span class="byline author vcard">Posted by <span class="fn">Ardianta Pargo</span></span>
+    <span class="byline author vcard">Posted by <span class="fn">Imron Rosyadi </span></span>
     
     <time>Sep 8, 2019</time>
     
@@ -206,7 +288,7 @@
 </div>
 
     <footer role="contentinfo">
-      <p>Copyright &copy; 2019 Ardianta Pargo - <a href="https://kangimonk96.github.io/license/">License</a> -
+      <p>Copyright &copy; 2019 Imron Rosyadi  - <a href="https://kangimonk96.github.io/license/">License</a> -
         <span class="credit">Powered by <a target="_blank" href="https://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/">Hugo-Octopress</a> theme.
       </p>
     </footer>
